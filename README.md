@@ -42,3 +42,8 @@
 <p align="center">
   More information about my projects at <a href="https://kstac.dev" target="_blank">kstac.dev</a>.
 </p>
+
+<p align="center">
+  Most of my projects are private. If you want to know more, here is my <a href="https://www.linkedin.com/in/kevin-stacchetti/" target="_blank">LinkedIn</a>.
+</p>
+
